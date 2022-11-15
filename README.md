@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sidhart79212678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidhart79212678" height="30" width="40" /></a>
+<a href="https://twitter.com/sidharth691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidharth691" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sidharth-a-a29636190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth-a-a29636190" height="30" width="40" /></a>
 <a href="https://instagram.com/_.sid_harth._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sid_harth._" height="30" width="40" /></a>
 </p>

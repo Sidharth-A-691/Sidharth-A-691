@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sidharth69122@gmail.com**
 
-- ⚡ Fun fact **Optimistic|Sarcastic|Motivator**
+- ⚡ Fun fact **Optimistic | Sarcastic | Motivator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

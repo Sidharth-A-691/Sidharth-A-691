@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falteur&label=Profile%20views&color=0e75b6&style=flat" alt="falteur" /> </p>
 
-- 🌱 I’m currently learning **html,css and javascript**
+- 🌱 I’m currently learning **Langgraph, langgchain and more Gen Ai technologies**
 
 - 📫 How to reach me: **sidharth69122@gmail.com**
 
